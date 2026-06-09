@@ -1,1 +1,0 @@
-# atv-design-patterns
